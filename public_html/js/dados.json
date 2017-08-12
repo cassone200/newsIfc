@@ -1,0 +1,272 @@
+[
+  {
+    "codigo": 0,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 1,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 2,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 3,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 4,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 5,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 6,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 7,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 8,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 9,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 10,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 11,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 12,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 13,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 14,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 15,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 16,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 17,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 18,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 19,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 20,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 21,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 22,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 23,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 24,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 25,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 26,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 27,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 28,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  },
+  {
+    "codigo": 29,
+    "categoria": 0,
+    "titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+    "sub_titulo": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consecteturNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "noticia": "Suspendisse a magna in magna gravida euismod. Sed molestie odio eget ligula rutrum, ac posuere eros sodales. Fusce non fermentum libero. Etiam vestibulum blandit tellus, a ornare diam pharetra et. Nam tincidunt arcu interdum, bibendum tortor et, vehicula quam. Nulla at ex ultrices, feugiat lectus in, imperdiet ex. Nulla ornare odio nunc, a faucibus magna mattis efficitur. Pellentesque pharetra ultricies eros. Curabitur at metus purus. Quisque rhoncus ac neque non dapibus. Nam egestas accumsan eros, eget tincidunt arcu rhoncus non. Quisque efficitur mi id massa consectetur, in finibus ipsum feugiat. Vestibulum at risus felis. Sed quis dolor a metus molestie pharetra id eget velit. Proin et sodales erat, sed accumsan tellus. Morbi id augue id erat molestie consequat.Sed vestibulum est in ipsum eleifend, nec dignissim erat tincidunt. Nulla sollicitudin accumsan ornare. Vestibulum commodo quis ligula non finibus. Fusce in nisl finibus, rhoncus velit id, fringilla diam. Nunc augue erat, mollis id feugiat eu, varius a leo. Nam eu tellus at arcu pharetra tristique nec at urna. Cras tellus quam, mollis quis malesuada eu, viverra in erat. Aliquam erat volutpat. Aenean at volutpat quam, in ornare magna. Sed nec aliquet diam. Sed ultricies purus et facilisis malesuada. Ut dui ligula, cursus placerat lorem non, gravida feugiat quam. Vestibulum suscipit urna a bibendum interdum.",
+    "autor": "UOL",
+    "img": "img\/img_noticia.jpg"
+  }
+]
